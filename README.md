@@ -6,7 +6,7 @@
 
 O **Dino Invest** foi desenvolvido como parte do **Laboratório de Excel da DIO**, com o objetivo de **aplicar os conceitos de Excel** na criação de uma ferramenta prática de **simulação de investimentos em Fundos Imobiliários (FIIs)**.
 
-A planilha permite que o usuário **simule cenários reais de investimento**, visualizando o **crescimento patrimonial, dividendos mensais e distribuição de aportes por tipo de fundo**.  
+A planilha permite que o usuário **simule cenários reais de investimento**, visualizando o **crescimento patrimonial, dividendos mensais e distribuição de investmento por tipo de fundo**.  
 Com fórmulas automáticas e interface intuitiva, o projeto oferece uma visão clara e profissional do **potencial retorno financeiro** ao longo do tempo.
 
 ---
@@ -25,7 +25,7 @@ Com fórmulas automáticas e interface intuitiva, o projeto oferece uma visão c
 - Cálculo do patrimônio acumulado e dos dividendos mensais  
 
 
-✅ **Distribuição por tipo de FII (Perfil Agressivo)**
+✅ **Distribuição por tipo de FII **
 
 
 ✅ **Visual dinâmico**
