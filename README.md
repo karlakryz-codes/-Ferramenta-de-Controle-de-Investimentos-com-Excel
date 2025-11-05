@@ -54,7 +54,8 @@ Com este projeto, foram aplicados e praticados:
 - Documentação técnica e apresentação de resultados.  
 
 ---
-[📥 Baixar a planilha Excel]([https://raw.githubusercontent.com/karlakryz-codes/Ferramenta-de-Controle-de-Investimentos-com-Excel/main/PLANILHA%20FINANCEIRAa.xlsx](https://github.com/karlakryz-codes/-Ferramenta-de-Controle-de-Investimentos-com-Excel/raw/refs/heads/main/PLANILHA%20FINANCEIRAa.xlsx))
+[📥 Baixar planilha no GitHub](https://github.com/karlakryz-codes/-Ferramenta-de-Controle-de-Investimentos-com-Excel/blob/main/PLANILHA%20FINANCEIRAa.xlsx)
+
 
 
 ## 👩‍💻 Autora
